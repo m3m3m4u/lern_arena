@@ -30,7 +30,7 @@
   "xlsx": "^0.18.5",
   "jspdf": "^2.5.1",
   "jspdf-autotable": "^3.8.3",
-  "docx": "^8.5.0"
+  "docx": "^9.5.1"
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3",
